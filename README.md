@@ -1,3 +1,3 @@
 # home_launcher
 
-A new Flutter project.
+A simple android home screen launcher application with Flutter.

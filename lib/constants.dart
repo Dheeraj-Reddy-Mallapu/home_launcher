@@ -1,1 +1,1 @@
-const double opacity = 0.6;
+const double opacity = 0.4;
